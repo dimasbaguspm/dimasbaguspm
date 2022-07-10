@@ -2,7 +2,7 @@ Hi there, [@dimasbaguspm](https://github.com/dimasbaguspm) is here ✋
 =
 
 ### 🤗 About me:
-I am a React JS developer with professional experience more than 2 years, would be happy if someone invites me to collaborate👀
+I am a React JS developer with professional experience more than 2 years, would be happy if someone invites me to collaborate 👀
 
 Currently working in one of the best Software Houses in Indonesia.
 
